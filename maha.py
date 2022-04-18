@@ -1,1 +1,1 @@
-print (''Hiii from mahaa)
+print ('Hiii from mahaa')
